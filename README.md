@@ -1,6 +1,6 @@
 # Brisbane-Street-Art Website
 
-Showcases all street art located in Brisbane, Australia. 
+Showcases street art located in Brisbane, Australia. 
 
 Sections:
 Navbar 
@@ -14,11 +14,9 @@ Colour scheme:
 #F7F4E9
 #EBA63F
 
-
+Made with:
 Bootstrap
 Google Fonts
-jQuery
-Popper.js
 CSS
 Javascript.
 
